@@ -5846,7 +5846,6 @@ $removeparam=afftrack
 ||neodatagroup.com^
 ||affilae.com^
 ||neory.com^
-||wetter.com^
 ||mobility-ads.de^
 ||home.neustar^
 ||news.vuukle.com^
